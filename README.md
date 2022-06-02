@@ -17,5 +17,5 @@ Android app (kotlin)
  - RestApi
  
  ## Resources
- -  [GetgeoApi.com](https://api.getgeoapi.com/v2/currency/)
+ -  [GetgeoApi.com](https://currency.getgeoapi.com/)
  
