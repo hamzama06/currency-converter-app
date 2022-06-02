@@ -1,4 +1,4 @@
-# currency-converter-app
+# Currency converter app
 Android app (kotlin)
 
 ## Screenshots
@@ -13,8 +13,8 @@ Android app (kotlin)
 
 ## Dependencies an techniques
  - Retrofit2
- - MVP archetecture
- - Api
+ - MVP architecture
+ - RestApi
  
  ## Resources
  -  [GetgeoApi.com](https://api.getgeoapi.com/v2/currency/)
