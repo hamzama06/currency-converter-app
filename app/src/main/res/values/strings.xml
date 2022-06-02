@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="convert_text">Convert</string>
+    <string name="amount_title">Amount</string>
+    <string name="amount_field_hint">Enter the amount</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="network_connection_message">Check your network connection</string>
+
+
+
+</resources>
